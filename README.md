@@ -1,6 +1,6 @@
 # Js-AppleClone
 Apple Clone Coding
-> 애플 웹사이트와 같은 인터랙션을 만들어본다.
+* 애플 웹사이트와 같은 인터랙션을 만들어본다.
 
 ## Content
 1. 실행화면
@@ -39,7 +39,7 @@ Apple Clone Coding
 
 * Html
 * Css
-* Jquery
+* Javascript
 
 <h2>
     5. 챌린지(힘들었던점) + 느낀점
